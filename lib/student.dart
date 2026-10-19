@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-const String studentName = 'BSIT3A_RESPECIA_RICO';
+const String studentName = 'ILGX3_RESPECIA_RICO';
 const String studentId = '241-00591';
 
 const List<String> _colorNames = [

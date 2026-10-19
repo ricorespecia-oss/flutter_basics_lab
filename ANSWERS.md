@@ -69,3 +69,5 @@ Without `Expanded`, the `StatBox` widgets no longer divided the available horizo
 ### 10. When you flip the dark-mode switch in Activity 5, which widget holds the state, and how does the change reach MaterialApp?
 
 The `_ThemeDemoAppState` class holds the `_isDark` Boolean state. When the switch changes, its callback calls `setState()`, which rebuilds the app and updates `MaterialApp`'s `themeMode` to either `ThemeMode.light` or `ThemeMode.dark`.
+
+
