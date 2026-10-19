@@ -2,7 +2,7 @@
 
 ## 1. GitHub Repository
 
-GitHub Repository: `REPLACE_WITH_YOUR_GITHUB_REPOSITORY_URL`
+GitHub Repository: https://github.com/ricorespecia-oss/flutter_basics_lab
 
 ## 2. Activity 2 — Debug Console
 
